@@ -1,14 +1,18 @@
-# rn-assignment5-11011536
+![telegram-cloud-photo-size-4-6043848932523625550-y](https://github.com/eaowusu2004/rn-assignment5-11011536/assets/144255174/9442e701-92c2-4d12-8136-e7678a6e28f7)# rn-assignment5-11011536
 # rn-assignment5-11011536
 rn-assignment5-11011536
 Description
  This is a mobile app built with React Native and Expo. It closely matches the provided UI design, including a home screen and a settings screen with a light and dark theme feature. Custom components are used throughout for a consistent user experience.
 
 Screenshots
-![Alt text](<IMAGE 2024-06-26 22:47:46-1.jpg>)
-![Alt text](<IMAGE 2024-06-26 22:47:49.jpg>)
-![Alt text](<IMAGE 2024-06-26 22:47:52.jpg>) 
-![Alt text](<IMAGE 2024-06-26 22:47:54.jpg>)
+
+![IMAGE 2024-06-26 22:47:52](https://github.com/eaowusu2004/rn-assignment5-11011536/assets/144255174/0d08728e-cafb-452b-ae52-b516303acc77)
+![IMAGE 2024-06-26 22:47:49](https://github.com/eaowusu2004/rn-assignment5-11011536/assets/144255174/1b52d1b9-80f2-4280-aaff-b575ff80f503)
+![IMAGE 2024-06-26 22:47:46](https://github.com/eaowusu2004/rn-assignment5-11011536/assets/144255174/217d6389-a691-4844-879f-066b8f81b4ae)
+![IMAGE 2024-06-26 22:47:54](https://github.com/eaowusu2004/rn-assignment5-11011536/assets/144255174/4af5f593-2807-420b-b83f-4473c3c591af)
+
+
+
 
 
 
